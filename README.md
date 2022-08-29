@@ -8,8 +8,8 @@ Traz o acompanhamento da coleção gratuita de vídeos, tutoriais, testes, etc.
 ##### Dias 1-12: Introdução ao Swift
 Os primeiros 12 dias proporcionam um aquecimento suave para o aprendizado Swift com uma seleção de vídeos de um minuto todos os dias e resposta a questionários curtos sobre cada um desses vídeos.
 
-- [ ] Dia 1 – variáveis, tipos de dados simples e interpolação de strings
-- [ ] Dia 2 – arrays, dicionários, conjuntos (sets) e enumerações (enums)
+- [x] [Dia 1](https://www.hackingwithswift.com/100/1) – variáveis, tipos de dados simples e interpolação de strings
+- [x] [Dia 2](https://www.hackingwithswift.com/100/2) – arrays, dicionários, conjuntos (sets) e enumerações (enums)
 - [ ] Dia 3 – operadores e condições
 - [ ] Dia 4 – loops, loops e mais loops
 - [ ] Dia 5 – funções, parâmetros e erros
